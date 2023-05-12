@@ -1,0 +1,210 @@
+body {
+    
+    margin: 0;
+    height: 100%;
+}
+
+.basliq {
+    background-color: rgb(44, 160, 29);
+    height: 140px;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+.basliq h3{
+    display: inline-block;
+    text-align: center;
+    line-height: 0.5;
+    font-weight: 550;
+    
+    
+     
+}
+
+.basliq p {
+    
+    text-align: center;
+    font-weight: 10;
+    
+}
+
+.services {
+  text-align: center;
+   margin-top: 100px;
+}
+
+.card1 {
+    margin-top: 50px;
+    display: inline-block;
+    width: 450px;
+  }
+
+.card1 img{
+   height: 80px;
+   float: left;
+}
+
+.card1 h1{
+    display: inline-block;
+    font-size: 20px;
+}
+
+.card1 p {
+    display: inline-block;
+    margin-top: -10px;
+}
+
+
+.card2 {
+    margin-top: 50px;
+    display: inline-block;
+    width: 450px;
+  }
+
+.card2 img{
+   height: 80px;
+   float: left;
+}
+
+.card2 h1{
+    display: inline-block;
+    font-size: 20px;
+}
+
+.card2 p {
+    display: inline-block;
+    margin-top: -10px;
+}
+
+
+.card3 {
+    margin-top: 50px;
+    display: inline-block;
+    width: 420px;
+  }
+
+.card3 img{
+   height: 80px;
+   float: left;
+}
+
+.card3 h1{
+    display: inline-block;
+    font-size: 20px;
+}
+
+.card3 p {
+    display: inline-block;
+    margin-top: -10px;
+}
+
+
+.card4 {
+    margin-top: 50px;
+    display: inline-block;
+    width: 450px;
+  }
+
+.card4 img{
+   height: 80px;
+   float: left;
+}
+
+.card4 h1{
+    display: inline-block;
+    font-size: 20px;
+}
+
+.card4 p {
+    display: inline-block;
+    margin-top: -10px;
+}
+
+
+.card5 {
+    margin-top: 50px;
+    display: inline-block;
+    width: 450px;
+  }
+
+.card5 img{
+   height: 80px;
+   float: left;
+}
+
+.card5 h1{
+    display: inline-block;
+    font-size: 20px;
+}
+
+.card5 p {
+    display: inline-block;
+    margin-top: -10px;
+}
+
+
+.card6 {
+    margin-top: 50px;
+    display: inline-block;
+    width: 420px;
+  }
+
+.card6 img{
+   height: 80px;
+   float: left;
+}
+
+.card6 h1{
+    display: inline-block;
+    font-size: 20px;
+}
+
+.card6 p {
+    display: inline-block;
+    margin-top: -10px;
+}
+
+.about {
+    background-color: rgb(194, 194, 194);
+    width: 100%;
+    position: absolute;
+    margin-top: 30px;
+    height: 500px;
+    
+}
+
+.about h1 {
+   text-align: center;
+   line-height: 0.4;
+   margin-top: 80px;
+   position: relative;
+
+}
+
+.about p{
+    text-align: center;
+}
+
+
+.about img{
+    height: 280px;
+    margin-top: 20px;
+    margin-left: 30px;
+    display: inline-block;
+}
+
+.sag {
+    
+    text-align: center;
+    margin-left: 400px;
+    margin-top: -280px;
+
+}
+
+.about ul{
+    margin-left: 670px;
+}
